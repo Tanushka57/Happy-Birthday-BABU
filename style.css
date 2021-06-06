@@ -1,0 +1,53 @@
+
+.copy_right_footer {
+    position: fixed;
+    color: darkblue;
+    bottom: 0;
+    width: 100%;
+    background-color:pink;
+    line-height: 3;
+    text-align: center;
+  }
+  .heading_div
+{
+  font-size: 23px;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+}
+  #di
+{
+  font-size: 20px;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+}
+#did
+{
+  font-size: 25px;
+  margin: 0px;
+  box-shadow:5px 5px 5px black;
+  color: red;
+  background-color: palegoldenrod;
+}
+#Heading1
+{
+  font-size: 26px;
+  margin: 0px;
+  box-shadow:5px 5px 5px black;
+  color: red;
+  background-color: palegoldenrod;
+}
+#babu 
+{
+    width: 600px;
+    height: 400px;
+    box-shadow:10px 10px 10px palevioletred;
+    border: dashed darkmagenta;
+}
+
+#bau 
+{
+    width: 200px;
+    height: 200px;
+    box-shadow:10px 10px 10px palevioletred;
+    border: dashed yellow;
+}
